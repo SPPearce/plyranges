@@ -25,6 +25,6 @@
 #'   * Import and write common genomic data formats with the `read_/write_` family
 #'    of functions.
 #'
-#'    For more details on the features of plryanges, read the vignette:
+#'    For more details on the features of plyranges, read the vignette:
 #'    `browseVignettes(package = "plyranges")`
 "_PACKAGE"

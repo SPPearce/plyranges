@@ -33,7 +33,7 @@ of functions.
 of functions.
 }
 
-For more details on the features of plryanges, read the vignette:
+For more details on the features of plyranges, read the vignette:
 \code{browseVignettes(package = "plyranges")}
 }
 \seealso{
@@ -44,7 +44,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Stuart Lee \email{lee.s@wehi.edu.au} (\href{https://orcid.org/0000-0003-1179-8436}{ORCID})
+\strong{Maintainer}: Stuart Lee \email{stuart.andrew.lee@gmail.com} (\href{https://orcid.org/0000-0003-1179-8436}{ORCID})
 
 Authors:
 \itemize{
